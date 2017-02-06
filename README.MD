@@ -5,21 +5,39 @@ Inform developers/decision that we are actively developing Cedar as a tool to he
 
 ### What is a visualization
 
-TODO
+Visualizations are any medium to present data, visually, to a visual consumer.
 
 ### Visualizations (Carto and beyond!)
-Visualizations are any medium to present data, visually, to a visual consumer.
   - Cartography
   - Charts
   - Infographics
   - Tables
+
 ### Brief History of Visualizations (Time?)
+  - Cholera map
+  - etc
 
 ## What makes an effective visualization?
 
+### Why do we visualize data?
+  - Cognitive understanding is faster when visually consumed
+  - To understand the data
+  - To frame the data in a different perspective thereby making it easier to reason and consume
 
+### Methods to understand the data
+  - Compare
+  - Sort
+  - Filter
+  - Highlight
+  - Aggregate
+  - Re Express
 
-TODO
+### Anatomy of a Chart
+  - Data
+  - Scales
+  - Axes
+  - Marks
+  - Legends
 
 ## How Cedar helps you make effective visualizations
 
