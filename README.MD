@@ -1,7 +1,23 @@
 ## Objective
 Inform developers/decision that we are actively developing Cedar as a tool to help them make effective visualizations of geoservices and to have them try Cedar in their projects.
 
+## Intro
+
+### What is a visualization
+
+TODO
+
+### Visualizations (Carto and beyond!)
+Visualizations are any medium to present data, visually, to a visual consumer.
+  - Cartography
+  - Charts
+  - Infographics
+  - Tables
+### Brief History of Visualizations (Time?)
+
 ## What makes an effective visualization?
+
+
 
 TODO
 
