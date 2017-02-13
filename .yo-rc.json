@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Charts and Custom Visualizations Beyond the Map",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "tomwayson",
+    "githubRepository": "dev-summit-2017-cedar"
+  }
+}
