@@ -41,14 +41,34 @@ Visualizations are any medium to present data, visually, to a visual consumer.
 
 ## How Cedar helps you make effective visualizations
 
+### Philosophy
+- state of the art vizualizations
+- re-usable, sharable
+- integrated w/ ArcGIS API
+- overridable, but smart defaults (from query params to chart types and styles)
+
+### Charchitecture (graphic)
+Spec + Data = View
+View => Parser => Renderer => Chart
+
 ### Working with geoservice data
-(work through https://esri.github.io/cedar/tutorial/)
 - primary value add: binding feature attributes to chart parameters
+- [geoservices api](http://geoservices.github.io/)
+  - query
+  - spatial filtering
+  - statistics
+  - aggregations
+  - limited SQL expression support
+
+DEMO:
+1. (work through https://esri.github.io/cedar/tutorial/)
  - default query parameters (`where: 1=1`)
  - flattens feature `attributes` so you don't have to
-- works with or with out map
- - https://esri.github.io/cedar/examples/map-to-chart-interaction.html
-- summary query or
+1. https://esri.github.io/cedar/examples/map-to-chart-interaction.html
+ - 2 ways to work w/ map Cedar does own summary query, or
+1. load https://esri.github.io/cedar/examples/inlined-data.html
+ - get data from a feature layer directly and add to chart
+3. Briefly load scatter, pie, bubble, grouped bar, horizontal bar to demonstrate the other chart types
 
 ## Where we're headed
 
