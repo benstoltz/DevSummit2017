@@ -3,9 +3,8 @@
 
 ---
 
-<!-- .slide: data-background="img/esri-fed-summit-2017/bg-5.png" -->
-### Driven by Open Data and Hub requirements
-<a href="http://visionzero.geohub.lacity.org/"><img src="img/los-angeles-vision-zero-screenshot.png" height="450" width="800" /></a>
+<!-- .slide: data-background="img/los-angeles-vision-zero-screenshot.png" class="slide light-background" -->
+#### Open Data and Hub requirements
 
 Note:
 these are the kinds of charts we need to make

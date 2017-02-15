@@ -6,6 +6,12 @@
 <!-- .slide: data-background="img/dogs-367602768_0416127f3e_b.jpg" -->
 #### Eating our own dog food
 
+
+---
+
+<!-- .slide: data-background-iframe="http://esri.github.io/cedar/examples/grouped.html" class="light-background" -->
+#### Better handling of multi-series charts
+
 ---
 
 <!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(img/charts-4237886048_40dec4ceb2_o.jpg)" -->
