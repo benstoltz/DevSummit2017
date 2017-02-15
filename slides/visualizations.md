@@ -1,4 +1,4 @@
-<!-- .slide: data-background="img/bg-2.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## Why should we visualize data?
 
 - Cognitive understanding is faster when visually consumed
@@ -9,14 +9,14 @@ TODO: sub slides for these points
 
 ---
 
-<!-- .slide: data-background="img/bg-2.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## What makes an effective visualization?
 
 TODO: interactive / sub slides for points
 
 ---
 
-<!-- .slide: data-background="img/bg-2.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## Methods to understand the data
 
 - Compare
@@ -30,7 +30,7 @@ TODO: interactive slide
 
 ---
 
-<!-- .slide: data-background="img/bg-2.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## Anatomy of a Chart
 
 - Data

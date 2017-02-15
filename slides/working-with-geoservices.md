@@ -4,6 +4,12 @@
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-6.png" -->
+## Cedar Overview
+<img src="https://docs.google.com/drawings/d/1pkPnCkNdg-3-t8H6f8xForlinz_GkCSCAQSps5Aki_k/pub?w=720&h=540" class="transparent" height="540" />
+
+---
+
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-6.png" -->
 ## Cedar example
 
 ```js
