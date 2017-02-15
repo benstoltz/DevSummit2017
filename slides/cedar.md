@@ -56,9 +56,3 @@
     <img src="img/cedar-logo-tree.png" class="transparent" height="300" width="220" />
   </div>
 </div>
-
----
-
-<!-- .slide: class="slide white" data-background-transition="slide" -->
-## Cedar Overview
-<img src="https://docs.google.com/drawings/d/1pkPnCkNdg-3-t8H6f8xForlinz_GkCSCAQSps5Aki_k/pub?w=800&h=600" class="transparent" height="600" />
