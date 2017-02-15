@@ -1,23 +1,73 @@
 <!-- .slide: data-background="img/bg-3.png" -->
-## Working with geoservice data
+## Working with Cedar
 
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Default query parameters
-### `where: '1=1'`
-### `outFields: '*'`
+## Cedar Example
+
+```js
+// create a new Cedar instance
+var chart = new Cedar({
+  "type":"bar" // shorthand for re-usable bar specification
+});
+```
+<!-- .element: class="large" -->
 
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Binding feature attributes to chart properties
+## Cedar Example
 
-TODO
+```js
+// identify service to query data from
+chart.dataset = {
+  "url":"https://server.arcgisonline.com/arcgis/rest/services/Demographics/USA_Population_Density/MapServer/4"
+};
+```
+<!-- .element: class="large" -->
+
+Note:
+smart defaults (`where: 1=1`)
 
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Works with or without a map
+## Cedar Example
 
-TODO
+```js
+// bind feature attributes to chart properties
+chart.dataset.mappings = {
+  "x": {"field":"NAME","label":"US State"},
+  "y": {"field":"TOTPOP_CY","label":"Population"}
+}
+```
+<!-- .element: class="large" -->
+
+Note:
+flattens feature `attributes` so you don't have to
+
+---
+
+<!-- .slide: data-background="img/bg-6.png" -->
+## Cedar Example
+
+```js
+// execute query and render chart at specified DOM element
+chart.show({
+  elementId: "#chart"
+});
+```
+<!-- .element: class="large" -->
+
+---
+
+<!-- .slide: data-background="img/bg-6.png" -->
+## Cedar Example
+
+<iframe width="100%" height="600" src="//jsfiddle.net/tomwayson/dox5o6w4/embedded/result,js,html/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+---
+
+<!-- .slide: data-background="img/bg-4.png" -->
+## Demo: Cedar charts

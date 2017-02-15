@@ -15,3 +15,8 @@
 
 <!-- .slide: data-background="img/groom-1536233_1280.jpg" -->
 #### Better default styling for charts
+
+---
+
+<!-- .slide: data-background="img/bg-4.png" -->
+## Demo: Cedar amCharts prototype

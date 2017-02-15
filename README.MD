@@ -47,24 +47,16 @@ Visualizations are any medium to present data, visually, to a visual consumer.
 - integrated w/ ArcGIS API
 - overridable, but smart defaults (from query params to chart types and styles)
 
-### Charchitecture (graphic)
-Spec + Data = View
-View => Parser => Renderer => Chart
+### Cedar Overview (graphic)
+Spec + Data + Mappings => Cedar => Chart
 
-### Working with geoservice data
-- primary value add: binding feature attributes to chart parameters
-- [geoservices api](http://geoservices.github.io/)
-  - query
-  - spatial filtering
-  - statistics
-  - aggregations
-  - limited SQL expression support
-
-DEMO:
-1. (work through https://esri.github.io/cedar/tutorial/)
+### Working with Cedar
+1. (work through https://esri.github.io/cedar/tutorial/) and note:
  - default query parameters (`where: 1=1`)
  - flattens feature `attributes` so you don't have to
-1. https://esri.github.io/cedar/examples/map-to-chart-interaction.html
+
+DEMO:
+1. load https://esri.github.io/cedar/examples/map-to-chart-interaction.html
  - 2 ways to work w/ map Cedar does own summary query, or
 1. load https://esri.github.io/cedar/examples/inlined-data.html
  - get data from a feature layer directly and add to chart
@@ -141,3 +133,14 @@ We're using Cedar to make the visualizations you see in Open Data and that has b
  - [demo](https://arcgis.github.io/ember-cli-cedar/)
 
 [amCharts]:https://www.amcharts.com/javascript-charts/
+
+## Removed Sections
+
+### Working with geoservice data
+- primary value add: binding feature attributes to chart parameters
+- [geoservices api](http://geoservices.github.io/)
+  - query
+  - spatial filtering
+  - statistics
+  - aggregations
+  - limited SQL expression support
