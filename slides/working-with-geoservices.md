@@ -4,7 +4,7 @@
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Cedar Example
+## Cedar example
 
 ```js
 // create a new Cedar instance
@@ -17,7 +17,7 @@ var chart = new Cedar({
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Cedar Example
+## Cedar example
 
 ```js
 // identify service to query data from
@@ -33,7 +33,7 @@ smart defaults (`where: 1=1`)
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Cedar Example
+## Cedar example
 
 ```js
 // bind feature attributes to chart properties
@@ -50,7 +50,7 @@ flattens feature `attributes` so you don't have to
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Cedar Example
+## Cedar example
 
 ```js
 // execute query and render chart at specified DOM element
@@ -63,9 +63,9 @@ chart.show({
 ---
 
 <!-- .slide: data-background="img/bg-6.png" -->
-## Cedar Example
+## Cedar example
 
-<iframe width="100%" height="600" src="//jsfiddle.net/tomwayson/dox5o6w4/embedded/result,js,html/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="600" width="800" src="//jsfiddle.net/tomwayson/dox5o6w4/embedded/result,js,html/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ---
 

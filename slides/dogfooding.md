@@ -1,5 +1,5 @@
 <!-- .slide: data-background="img/bg-3.png" -->
-## Lessons learned
+## The road ahead for Cedar
 
 ---
 
@@ -15,6 +15,14 @@
 
 <!-- .slide: data-background="img/groom-1536233_1280.jpg" -->
 #### Better default styling for charts
+
+---
+
+<!-- .slide: data-background="img/bg-3.png" -->
+### Possible... but challenging with Vega
+<div style="background: #fff; width: 800px; margin: 0 auto;">
+  <iframe src="https://vega.github.io/vega/" height="400" width="100%" />
+</div>
 
 ---
 
