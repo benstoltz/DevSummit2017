@@ -1,4 +1,4 @@
-<!-- .slide: data-background="img/bg-3.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-3.png" -->
 ## The road ahead for Cedar
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-<!-- .slide: data-background="img/bg-3.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-3.png" -->
 ### Possible... but challenging with Vega
 <div style="background: #fff; width: 800px; margin: 0 auto;">
   <iframe src="https://vega.github.io/vega/" height="400" width="100%" />
@@ -26,5 +26,5 @@
 
 ---
 
-<!-- .slide: data-background="img/bg-4.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-4.png" -->
 ## Demo: Cedar amCharts prototype

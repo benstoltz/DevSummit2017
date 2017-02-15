@@ -1,9 +1,9 @@
-<!-- .slide: data-background="img/bg-3.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-3.png" -->
 ## Using Cedar in Open Data
 
 ---
 
-<!-- .slide: data-background="img/bg-5.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-5.png" -->
 ### Driven by Open Data and Hub requirements
 <a href="http://visionzero.geohub.lacity.org/"><img src="img/los-angeles-vision-zero-screenshot.png" height="450" width="800" /></a>
 
@@ -43,5 +43,5 @@ Open Data always working with other people's data
 
 ---
 
-<!-- .slide: data-background="img/bg-4.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-4.png" -->
 ## Demo: Cedar in Open Data
