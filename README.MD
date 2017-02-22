@@ -32,12 +32,6 @@ Visualizations are any medium to present data, visually, to a visual consumer.
   - Aggregate
   - Re Express
 
-### Anatomy of a Chart
-  - Data
-  - Scales
-  - Axes
-  - Marks
-  - Legends
 
 ## How Cedar helps you make effective visualizations
 

@@ -1,26 +1,42 @@
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
-## What is a visualization
-
-### Visualizations are any medium to present and represent data, visually, to an audience.
+## What is a visualization?
 
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
-## Visualizations (Carto and beyond)
+## Visualizations are communications
+---
 
-- Cartography
-- Charts
-- Infographics
-- Tables
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+## Cartography
 
-TODO: images for carto types
+<img src="img/RadicalCartography.jpg" class="transparent" />
 
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
-## Brief History of Visualizations
+## Chart
 
-- Cholera map
-- Napolean invasion of russia
+<img src="img/chart.png" class="transparent" />
 
-TODO: images for some famous historical vis'
+---
+
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+## Infographic
+
+<img src="img/infographic.jpg" class="transparent" />
+
+---
+
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+## Table
+
+<img src="img/table.png" class="transparent" />
+
+---
+
+<!-- .slide: data-background="img/Charles-Joseph-Minard-Napoleons-March-1.jpeg" -->
+
+---
+
+<!-- .slide: data-background="img/choleraMap.jpg" -->
