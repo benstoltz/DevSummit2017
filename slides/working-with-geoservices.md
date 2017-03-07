@@ -27,9 +27,11 @@ var chart = new Cedar({
 
 ```js
 // identify service to query data from
-chart.dataset = {
-  "url":"https://server.arcgisonline.com/arcgis/rest/services/Demographics/USA_Population_Density/MapServer/4"
-};
+chart.datasets = [
+    {
+      "url":"https://server.arcgisonline.com/arcgis/rest/services/Demographis/USA_Population_Density/MapServer/4"
+    }
+];
 ```
 <!-- .element: class="large" -->
 
@@ -43,10 +45,12 @@ smart defaults (`where: 1=1`)
 
 ```js
 // bind feature attributes to chart properties
-chart.dataset.mappings = {
-  "x": {"field":"NAME","label":"US State"},
-  "y": {"field":"TOTPOP_CY","label":"Population"}
-}
+chart.series = [
+  {
+    "category": {"field":"NAME","label":"US State"},
+    "value": {"field":"TOTPOP_CY","label":"Population"}
+  }
+];
 ```
 <!-- .element: class="large" -->
 

@@ -2,5 +2,6 @@
 # Thank You
 
 ## Ben Stoltz [@benstoltz](https://github.com/benstoltz)
+## Tom Wayson [@tomwayson](https://github.com/tomwayson)
 
 https://github.com/esri/cedar/
