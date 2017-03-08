@@ -2,12 +2,22 @@
 ## Why should we visualize data?
 
 <br />
-<span class="fragment fade-in">Help humans solve analytical problems quickly and accurately with visualization</span>
+<span class="fragment fade-in">To frame data in a different perspective thereby making it easier to cognitively reason and consume</span><br /><br />
+<span class="fragment fade-in">To tell a story</span>
+
+---
+
+<!-- .slide: data-background="img/minardNapolean.png" -->
 
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## What makes an effective visualization?
+
+---
+
+<!-- .slide: data-background="img/audience.jpg" -->
+#### It <span style="color:orange;">understands</span> the audience
 
 ---
 
@@ -26,11 +36,16 @@
 <h2>Pre-attentive processing</h2>
 <img src="img/circle.png" class="transparent" />
 
+---
+
+<!-- .slide: data-background="img/story.jpg" -->
+#### It tells a <span style="color:orange;">story</span>!
 
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## Some charting faux pas
+<img src="img/octopus.gif" class="transparent" />
 
 ---
 
