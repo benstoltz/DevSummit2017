@@ -1,3 +1,8 @@
+<!-- .slide: data-background="img/survey.png" -->
+<!-- <img src="img/survey.png" class="transparent" /> -->
+
+---
+
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-1.png" -->
 # Thank You
 
