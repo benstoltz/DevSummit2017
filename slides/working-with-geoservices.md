@@ -81,3 +81,5 @@ chart.show({
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-4.png" -->
 ## Demo: Cedar charts
+
+http://esri.github.io/cedar/examples/

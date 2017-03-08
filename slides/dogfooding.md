@@ -27,10 +27,12 @@
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-3.png" -->
 ### Possible... but challenging with Vega
 <div style="background: #fff; width: 800px; margin: 0 auto;">
-  <iframe src="https://vega.github.io/vega/" height="400" width="100%" />
+  <iframe src="//unpkg.com/arcgis-cedar@0.9.1/dist/charts/grouped.json" height="400" width="100%" />
 </div>
 
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-4.png" -->
 ## Demo: Cedar amCharts prototype
+
+https://esridc.github.io/cedar-amcharts/

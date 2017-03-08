@@ -35,7 +35,7 @@ Open Data always working with other people's data
 ---
 
 <!-- .slide: data-background="#cf483b" -->
-## EmberCLI addon: <a href="https://github.com/ArcGIS/ember-cli-cedar" style="color: #fff">ember-cli-cedar</a>
+## EmberCLI addon: <a href="https://www.npmjs.com/package/ember-cli-cedar" style="color: #fff">ember-cli-cedar</a>
 <!-- .element: style="color: #f2d1cb" -->
 
 <img src="img/emberjs-logo.png" class="transparent" height="300" width="300" />
@@ -44,3 +44,5 @@ Open Data always working with other people's data
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-4.png" -->
 ## Demo: Cedar in Open Data
+
+http://opendata.arcgis.com/datasets/ess::hurricane-track
