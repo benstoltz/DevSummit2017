@@ -35,8 +35,10 @@
 
 ---
 
-<!-- .slide: data-background="img/Charles-Joseph-Minard-Napoleons-March-1.jpeg" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+<img src="img/Charles-Joseph-Minard-Napoleons-March-1.jpeg" class="transparent" />
 
 ---
 
-<!-- .slide: data-background="img/choleraMap.jpg" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+<img src="img/choleraMap.jpg" class="transparent" />

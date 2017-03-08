@@ -11,13 +11,21 @@
 
 ---
 
-<!-- .slide: data-background="img/xy.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+<img src="img/xy.png" class="transparent" />
 
 ---
 
-<!-- .slide: data-background="img/circle.png" -->
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+<img src="img/line.png" class="transparent" />
 
-<span class="fragment fade-in">Pre-attentive processing</span>
+---
+
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+
+<h2>Pre-attentive processing</h2>
+<img src="img/circle.png" class="transparent" />
+
 
 ---
 
