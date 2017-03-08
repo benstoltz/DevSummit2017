@@ -30,6 +30,11 @@
 ---
 
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
+## Some charting faux pas
+
+---
+
+<!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 ## Nooooooooooo!
 <img src="img/image80.png" class="transparent" />
 
