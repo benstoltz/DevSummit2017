@@ -21,6 +21,11 @@
 
 ---
 
+<!-- .slide: data-background="img/clearFramework.jpg" -->
+#### It has a clear visual framework
+
+---
+
 <!-- .slide: data-background="img/esri-fed-summit-2017/bg-2.png" -->
 <img src="img/xy.png" class="transparent" />
 
